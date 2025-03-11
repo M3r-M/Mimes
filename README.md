@@ -6,5 +6,8 @@ Inspired by Sims-like AI behavior, it features NPCs with a simplified goal-orien
 ## Tags
 #TechDemo #Portfolio #MiniGame #SimsLike #AI #NPC #Behavior #GOAP #AgentCentralized #GAS #EQS #UE5 #C++
 
+## Related documentation
+Style convention: https://github.com/Allar/ue5-style-guide
+
 ## License
 MIT License - Copyright © 2025 M3r-M
